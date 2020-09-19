@@ -22,6 +22,16 @@ The following content is taken from jigsawlabs.io
 
 [Sigmoid Neuron Lab](https://colab.research.google.com/github/jigsawlabs-student/neural-nets-from-scratch/blob/master/1-hypothesis-fn-neuron/4-sigmoid-neuron-lab.ipynb#scrollTo=2o3l6HJLTLfQ)
 
+[Training a Neuron](https://colab.research.google.com/github/jigsawlabs-student/neural-nets-from-scratch/blob/master//2-training-proc/2-training-conceptually/5-training-a-neuron.ipynb)
+
+[Gradient Descent](https://colab.research.google.com/github/jigsawlabs-student/neural-nets-from-scratch/blob/master/2-training-proc/2-training-conceptually/6-gradient-descent-single-param.ipynb#scrollTo=2UPO7iJt9P9y)
+
+[Derivatives](https://colab.research.google.com/github/jigsawlabs-student/neural-nets-from-scratch/blob/master/2-training-proc/3-training-mathematically/1-working-with-derivatives.ipynb#scrollTo=wSDi8vTaEXq0)
+
+
+
+
+
 
 
 
